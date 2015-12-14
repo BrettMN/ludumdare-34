@@ -1,0 +1,20 @@
+{
+  "name": "ld-34",
+  "version": "1.0.0",
+  "description": "Ludum Dare 34 entry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brett Nelson",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-typescript": "^2.10.0"
+  },
+  "dependencies": {
+    "systemjs": "^0.19.6"
+  }
+}
